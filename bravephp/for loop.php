@@ -1,6 +1,6 @@
 <?php
 /* odd numbers */
-for ($i=1; $i<=50; $i+=2)
+for ($i=1; $i<=51; $i+=2)
 
 {
 
